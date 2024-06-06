@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|e:\\winforms tic-tac-toe\\winforms tic-tac-toe\\winforms tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|e:\\winforms tic-tac-toe\\winforms tic-tac-toe\\winforms tic-tac-toe\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\initform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\initform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\winforms tic-tac-toe\\winningmovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C62FAD-DC77-4BAB-8179-73545C775D0A}|WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe.csproj|solutionrelative:winforms tic-tac-toe\\winningmovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +50,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\Form1.cs",
-              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Form1.cs [Design]",
-              "RelativeToolTip": "WinForms Tic-Tac-Toe\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameState.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\GameState.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameState.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:02:48.144Z",
+              "WhenOpened": "2024-06-06T16:25:29.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\GameForm.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\GameForm.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAsCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:21:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\GameForm.Designer.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.Designer.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\GameForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:21:08.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Player1.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\Player1.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Player1.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\Player1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:53:46.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinningMovements.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinningMovements.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\WinningMovements.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinningMovements.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\WinningMovements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:29:49.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player2.cs",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Player2.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\Player2.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\Player2.cs",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\Player2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:13:24.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitForm.cs [Design]",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\InitForm.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\InitForm.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\InitForm.cs [Design]",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\InitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:01:25.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.cs",
+              "RelativeDocumentMoniker": "WinForms Tic-Tac-Toe\\GameForm.cs",
+              "ToolTip": "E:\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\WinForms Tic-Tac-Toe\\GameForm.cs [Design]",
+              "RelativeToolTip": "WinForms Tic-Tac-Toe\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:01:24.484Z",
               "EditorCaption": " [Design]"
             }
           ]

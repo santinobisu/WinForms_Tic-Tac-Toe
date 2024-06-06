@@ -1,0 +1,19 @@
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\bin\Debug\net8.0-windows\WinForms Tic-Tac-Toe.exe
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\bin\Debug\net8.0-windows\WinForms Tic-Tac-Toe.deps.json
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\bin\Debug\net8.0-windows\WinForms Tic-Tac-Toe.runtimeconfig.json
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\bin\Debug\net8.0-windows\WinForms Tic-Tac-Toe.dll
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\bin\Debug\net8.0-windows\WinForms Tic-Tac-Toe.pdb
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms_Tic_Tac_Toe.InitForm.resources
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms_Tic_Tac_Toe.Properties.Resources.resources
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms_Tic_Tac_Toe.GameForm.resources
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.csproj.GenerateResource.cache
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.AssemblyInfoInputs.cache
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.AssemblyInfo.cs
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.sourcelink.json
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.dll
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\refint\WinForms Tic-Tac-Toe.dll
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.pdb
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\WinForms Tic-Tac-Toe.genruntimeconfig.cache
+E:\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\WinForms Tic-Tac-Toe\obj\Debug\net8.0-windows\ref\WinForms Tic-Tac-Toe.dll

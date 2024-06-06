@@ -28,18 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
+            StartButton = new Button();
             SuspendLayout();
+            // 
+            // StartButton
+            // 
+            StartButton.Location = new Point(131, 92);
+            StartButton.Name = "StartButton";
+            StartButton.Size = new Size(266, 84);
+            StartButton.TabIndex = 0;
+            StartButton.Text = "Start";
+            StartButton.UseVisualStyleBackColor = true;
+            StartButton.Click += StartButton_Click;
             // 
             // InitForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(728, 382);
+            ClientSize = new Size(527, 266);
+            Controls.Add(StartButton);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
             Name = "InitForm";
-            Text = "InitForm";
+            ShowIcon = false;
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Tic-Tac-Toe";
             ResumeLayout(false);
         }
 
         #endregion
+
+        private Button StartButton;
     }
 }

@@ -8,8 +8,6 @@ namespace WinForms_Tic_Tac_Toe
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new InitForm());
         }
