@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fdd674c67c0558ca29760e1949e41f4e63a4e83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+527c9ba44141477aeddf119b665a26bd7c35f54d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

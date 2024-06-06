@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace WinForms_Tic_Tac_Toe
 {
-    public class Player2
+    public class Player
     {
         public HashSet<int>? PlayerMovements { get; set; } = new HashSet<int>();
         private bool isYourTurn;
+        public Image imageToUse;
+        public string playerName;
 
-        public Player2(bool _isYourTurn)
+        public Player(bool _isYourTurn, Image _imageToUse, string _playerName)
         {
             isYourTurn = _isYourTurn;
+            imageToUse = _imageToUse;
+            playerName = _playerName;
         }
 
         public void setTurnValue(bool b)
